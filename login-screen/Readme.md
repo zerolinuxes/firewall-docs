@@ -12,3 +12,8 @@ Accespt the disclaimer
 Enter your username and password
 
 ![1](login-screen/_3.png)
+
+
+Enter Dashboard view
+
+![1](login-screen/_4.png)
