@@ -6,7 +6,7 @@ Firewall login screen
 
 Accespt the disclaimer
 
-![1](login-screen/_2.png)
+![1](_2.png)
 
 
 Enter your username and password
