@@ -1,7 +1,7 @@
 
 Firewall login screen 
 
-![1](login-screen/_1.png)
+![1](_1.png)
 
 
 Accespt the disclaimer
@@ -11,9 +11,9 @@ Accespt the disclaimer
 
 Enter your username and password
 
-![1](login-screen/_3.png)
+![1](_3.png)
 
 
 Enter Dashboard view
 
-![1](login-screen/_4.png)
+![1](_4.png)
