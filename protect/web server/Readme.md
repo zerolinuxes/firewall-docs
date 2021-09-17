@@ -14,6 +14,6 @@ to see authentication templates
 
 ![](_4.png)
 
-to see general settinga
+to see general settings
 
 ![](_5.png)
