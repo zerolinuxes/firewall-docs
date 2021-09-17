@@ -26,6 +26,6 @@ to see traffic shaping
 
 ![](_7.png)
 
-to see settings
+to see services
 
 ![](_8.png)
