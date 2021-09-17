@@ -1,6 +1,6 @@
 to see policies
 
-![](_1.png)
+![](_1.png.png)
 
 to see user activities
 
